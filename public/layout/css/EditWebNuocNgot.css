@@ -1,0 +1,11 @@
+.sliderbanner
+{
+    display:none;
+    visibility:hidden;	
+}	
+
+.btn-secondary
+{
+background-color: #f7f7f7;
+color:#666;
+}	
